@@ -1,4 +1,4 @@
-## cohort-convert - a geneartion analysis tool.
+## cohort-convert - a generation analysis tool.
 
 The goals:
 
@@ -8,13 +8,13 @@ The goals:
 
 3. Provide research into generation validity for discussions of the Millennial generation I conducted at the USC Marshall School of Business in the 2000s, as well as contributes to the Lifecourse (Strauss & Howe) discussion group. 
 
-[CTM Conference to Examine Millennial Impacts on Business (2008)](https://www.marshall.usc.edu/news/releases/2008/ctm-conference-examine-millennial-impacts-business)
+4. [CTM Conference to Examine Millennial Impacts on Business (2008)](https://www.marshall.usc.edu/news/releases/2008/ctm-conference-examine-millennial-impacts-business)
+
+5. [Link to app](http://plyojump.com/cohort_convert/)
 
 ## Description
 
-This application allows y=f(x) data to be re-plotted, where x = years and y= a particular property, like personal income. Different series in the plot are assumed to be 'age bands' - data grouped by the age of the responder.
-
-The application performs a 'rotation' of the data, and re-plots it so the series are now birthyears or cohort bundles(generations). Ini this way, effects based on cohort/generational changes may be estimated. 
+This application allows y=f(x) data to be re-plotted, where x = years and y= a particular property, like personal income, grouped by the age of thr responders. The application performs a 'rotation' of the data, and re-plots it so the age-range versus response year are now plotted for cohort bundles, a.k.a. generations. In this way, the degree to which pop culture, demographics, or social attitudes are based on generation (Millennial, Boomer, GenX, Silent, Plural, etc) may be estimated. 
 
 Options include:
 
@@ -24,9 +24,11 @@ Options include:
 
 ## Theory
 
-The program was written to explore whether generations, defined as people born in a specific range of years (e.g. Baby Boomers born 1943-1961) show up in demographics and survey data. Most research involves life stage - a survey question or demographic is tested on a regular (often yearly) basis. This data often groups responses against age ranges, e.g. 25-34 years over a 10 year period.
+The program was written to explore whether generations, defined as people born in a specific range of years (e.g. Baby Boomers with a birthyear range 1943-1961) are validated by demographics and survey data. Most research of this type involves life stage - a survey question or demographic is tested on a regular (often yearly) basis. This data often groups responses against age ranges, e.g. 25-34 years over a 10 year period. It tells us what people are thinking, but doesn't tell us if it is due to their age (life-stage dependent), or the year they were born in (generation/cohort).
 
-To analyze generations, one needs to do cohorts. However, few surveys track the same people over time, and repeatedly ask them questions, which is what would be required for a true cohort study. Cohort data is, however, buried in the age range vs. year data. If the survey runs long enough, people in a younger age group (e.g. 25-34) will migrated into an older group (e.g. 35-50). By looking along the diagonals of the year verus age-range data, one can see cohorts advancing through time.
+To get data for generations, one needs to collect data for cohorts. However, few surveys track the same people over time, and repeatedly ask them questions, which is what would be required for a true cohort study. 
+
+Cohort data is, however, buried in the age range vs. year data. If the survey runs long enough, people in a younger age group (e.g. 25-34) will migrated into an older group (e.g. 35-50). By looking along the diagonals of the year verus age-range data, one can see cohorts advancing through time.
 
 An additional wrinkle is that the age ranges bundle one group, while generations bundle a range of birthyears. So, the diagonals won't be simple.
 
