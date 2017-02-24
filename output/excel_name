@@ -1,0 +1,115 @@
+				<html xmlns:o="urn:schemas-microsoft-com:office:office"
+				xmlns:x="urn:schemas-microsoft-com:office:excel"
+				xmlns="http://www.w3.org/TR/REC-html40">
+
+				<head>
+				<meta http-equiv=Content-Type content="text/html; charset=us-ascii">
+				<meta name=ProgId content=Excel.Sheet>
+				<!--[if gte mso 9]><xml>
+				 <o:DocumentProperties>
+				  <o:LastAuthor>Sriram</o:LastAuthor>
+				  <o:LastSaved>2005-01-02T07:46:23Z</o:LastSaved>
+				  <o:Version>10.2625</o:Version>
+				 </o:DocumentProperties>
+				 <o:OfficeDocumentSettings>
+				  <o:DownloadComponents/>
+				 </o:OfficeDocumentSettings>
+				</xml><![endif]-->
+				<style>
+				<!--table
+					{mso-displayed-decimal-separator:"\.";
+					mso-displayed-thousand-separator:"\,";}
+				@page
+					{margin:1.0in .75in 1.0in .75in;
+					mso-header-margin:.5in;
+					mso-footer-margin:.5in;}
+				tr
+					{mso-height-source:auto;}
+				col
+					{mso-width-source:auto;}
+				br
+					{mso-data-placement:same-cell;}
+				.style0
+					{mso-number-format:General;
+					text-align:general;
+					vertical-align:bottom;
+					white-space:nowrap;
+					mso-rotate:0;
+					mso-background-source:auto;
+					mso-pattern:auto;
+					color:windowtext;
+					font-size:10.0pt;
+					font-weight:400;
+					font-style:normal;
+					text-decoration:none;
+					font-family:Arial;
+					mso-generic-font-family:auto;
+					mso-font-charset:0;
+					border:none;
+					mso-protection:locked visible;
+					mso-style-name:Normal;
+					mso-style-id:0;}
+				td
+					{mso-style-parent:style0;
+					padding-top:1px;
+					padding-right:1px;
+					padding-left:1px;
+					mso-ignore:padding;
+					color:windowtext;
+					font-size:10.0pt;
+					font-weight:400;
+					font-style:normal;
+					text-decoration:none;
+					font-family:Arial;
+					mso-generic-font-family:auto;
+					mso-font-charset:0;
+					mso-number-format:General;
+					text-align:right;
+					vertical-align:bottom;
+					border:none;
+					mso-background-source:auto;
+					mso-pattern:auto;
+					mso-protection:locked visible;
+					white-space:nowrap;
+					mso-rotate:0;}
+				.titling
+					{mso-style-parent:style0;
+					font-size:14.0pt;
+					font-weight:400;
+					}
+				.columnnames 
+					{mso-style-parent:style0;
+					font-size:10.0pt;
+					font-weight:bold;
+					font-weight:800;
+					}
+				.xl24
+					{mso-style-parent:style0;
+					white-space:normal;}
+				-->
+				</style>
+				<!--[if gte mso 9]><xml>
+				 <x:ExcelWorkbook>
+				  <x:ExcelWorksheets>
+				   <x:ExcelWorksheet>
+					<x:Name>srirmam</x:Name>
+					<x:WorksheetOptions>
+					 <x:Selected/>
+					 <x:ProtectContents>False</x:ProtectContents>
+					 <x:ProtectObjects>False</x:ProtectObjects>
+					 <x:ProtectScenarios>False</x:ProtectScenarios>
+					</x:WorksheetOptions>
+				   </x:ExcelWorksheet>
+				  </x:ExcelWorksheets>
+				  <x:WindowHeight>10005</x:WindowHeight>
+				  <x:WindowWidth>10005</x:WindowWidth>
+				  <x:WindowTopX>120</x:WindowTopX>
+				  <x:WindowTopY>135</x:WindowTopY>
+				  <x:ProtectStructure>False</x:ProtectStructure>
+				  <x:ProtectWindows>False</x:ProtectWindows>
+				 </x:ExcelWorkbook>
+				</xml><![endif]-->
+				</head>
+
+				<body link=blue vlink=purple>
+				<table x:str border=0 cellpadding=0 cellspacing=0 style='border-collapse: collapse;table-layout:fixed;'><tr><td class=titling width=24 >Series Data: Median Income, Federal Reserve, 1987-2002</td></tr><tr><td class=xl24 width=64 ><b>Table:</b> input</td></tr><tr><td class=xl24 width=64 ><b>Account:</b> pindiespace</td></tr><tr><td class=xl24 width=64 ><b>Organization:</b> Indiespace</td></tr><tr><td class=xl24 width=64 ><b>Rows:</b> Year</td></tr><tr><td class=xl24 width=64 ><b>Columns:</b> Median Income</td></tr><tr><tr></tr><tr><td class=columnnames width=64 >Series</td><td class=columnnames width=64 >1989</td><td class=columnnames width=64 >1992</td><td class=columnnames width=64 >1995</td><td class=columnnames width=64 >1998</td><td class=columnnames width=64 >2001</td><td class=columnnames width=64 >2004</td><td class=columnnames width=64 >2007</td></tr><tr><td class=xl24 width=64 >1000</td><td class=xl24 width=64 >33.6</td><td class=xl24 width=64 >35.6</td><td class=xl24 width=64 >34.6</td><td class=xl24 width=64 >34.9</td><td class=xl24 width=64 >39.1</td><td class=xl24 width=64 >36.1</td><td class=xl24 width=64 >37.4</td></tr><tr><td class=xl24 width=64 >1001</td><td class=xl24 width=64 >58.8</td><td class=xl24 width=64 >51.9</td><td class=xl24 width=64 >51.8</td><td class=xl24 width=64 >53.6</td><td class=xl24 width=64 >60.1</td><td class=xl24 width=64 >54.9</td><td class=xl24 width=64 >56.6</td></tr><tr><td class=xl24 width=64 >1002</td><td class=xl24 width=64 >62.1</td><td class=xl24 width=64 >60.4</td><td class=xl24 width=64 >54.4</td><td class=xl24 width=64 >64.5</td><td class=xl24 width=64 >63.7</td><td class=xl24 width=64 >67.1</td><td class=xl24 width=64 >64.2</td></tr><tr><td class=xl24 width=64 >1003</td><td class=xl24 width=64 >42.5</td><td class=xl24 width=64 >43</td><td class=xl24 width=64 >45.7</td><td class=xl24 width=64 >49.1</td><td class=xl24 width=64 >52.9</td><td class=xl24 width=64 >59.8</td><td class=xl24 width=64 >54.6</td></tr><tr><td class=xl24 width=64 >1004</td><td class=xl24 width=64 >26</td><td class=xl24 width=64 >25.9</td><td class=xl24 width=64 >26</td><td class=xl24 width=64 >31</td><td class=xl24 width=64 >32.5</td><td class=xl24 width=64 >36.6</td><td class=xl24 width=64 >39</td></tr><tr><td class=xl24 width=64 >1005</td><td class=xl24 width=64 >22.2</td><td class=xl24 width=64 >19.9</td><td class=xl24 width=64 >21.7</td><td class=xl24 width=64 >21.3</td><td class=xl24 width=64 >26.2</td><td class=xl24 width=64 >26</td><td class=xl24 width=64 >22.8</td></tr></tr></table></body></html>

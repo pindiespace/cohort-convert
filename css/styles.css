@@ -1,0 +1,104 @@
+@charset "utf-8";
+/*
+css for cohort convert program
+convert to
+http://veerle.duoh.com/blog/comments/a_css_styled_table/
+*/
+
+/*tag-level styles*/
+
+body {
+	background-color:#99CCFF;
+	}
+	
+table {
+	width:85%;
+	border: solid 2px #0066CC;
+	border-spacing: 0pt;
+	padding: 4px;
+	}
+	
+th {
+	font-style: normal;
+	background-color: white;
+	}
+	
+td {
+	border-bottom: solid 1px gray;
+	background-color: #EEEEEE; color: black;
+	}
+	
+	
+/*class-level styles*/
+.raw_output {
+	width:85%;
+	padding-left: 4px;
+	padding-right: 4px;
+	padding-top: 4px;
+	padding-bottom: 4px;
+	margin-top: 4px;
+	margin-bottom: 4px;
+	font-family:"Courier New", Courier, monospace;
+	background-color: white;
+	color:black;
+	}
+	
+.raw_table {
+	font-family:"Courier New", Courier, monospace;
+	text-align:right;
+	display:block;
+	padding: 10px;
+	}
+	
+	
+/*id-level styles*/
+#navigation {
+	text-align:left;
+	margin-left:auto;
+	margin-right:auto;
+	width: auto;
+	background-color: #99DDFF;
+	}
+	
+#navigation span {
+	display: inline;
+	}
+	
+#navigation li {
+	display: inline;
+	list-style-type: none;
+	padding: 1em;
+	}
+	
+#description {
+	border-top: 1px solid;
+	border-left: 1px solid;
+	border-right: 1px solid;
+	border-color:#33f;
+	color:#000;
+	background-color:#999;
+	padding: 6px;
+	}
+	
+#form {
+	border: 1px solid;
+	border-color:33f;
+	background-color:#CCC;
+	padding: 10px;
+	}
+	
+#output {
+	border: 1px solid;
+	border-color:#33F;
+	color:#000;
+	background-color:#EEE;
+	padding:6px;
+	margin-bottom:5px;
+	}
+	
+#bolder {
+	font-style:oblique;
+	}
+	
+
+

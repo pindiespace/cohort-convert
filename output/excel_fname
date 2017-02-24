@@ -1,0 +1,121 @@
+				<html xmlns:o="urn:schemas-microsoft-com:office:office"
+				xmlns:x="urn:schemas-microsoft-com:office:excel"
+				xmlns="http://www.w3.org/TR/REC-html40">
+
+				<head>
+				<meta http-equiv=Content-Type content="text/html; charset=us-ascii">
+				<meta name=ProgId content=Excel.Sheet>
+				<!--[if gte mso 9]><xml>
+				 <o:DocumentProperties>
+				  <o:LastAuthor>Sriram</o:LastAuthor>
+				  <o:LastSaved>2005-01-02T07:46:23Z</o:LastSaved>
+				  <o:Version>10.2625</o:Version>
+				 </o:DocumentProperties>
+				 <o:OfficeDocumentSettings>
+				  <o:DownloadComponents/>
+				 </o:OfficeDocumentSettings>
+				</xml><![endif]-->
+				<style>
+				<!--table
+					{mso-displayed-decimal-separator:"\.";
+					mso-displayed-thousand-separator:"\,";}
+				@page
+					{margin:1.0in .75in 1.0in .75in;
+					mso-header-margin:.5in;
+					mso-footer-margin:.5in;}
+				tr
+					{mso-height-source:auto;}
+				col
+					{mso-width-source:auto;}
+				br
+					{mso-data-placement:same-cell;}
+				.style0
+					{mso-number-format:General;
+					text-align:general;
+					vertical-align:bottom;
+					white-space:nowrap;
+					mso-rotate:0;
+					mso-background-source:auto;
+					mso-pattern:auto;
+					color:windowtext;
+					font-size:10.0pt;
+					font-weight:400;
+					font-style:normal;
+					text-decoration:none;
+					font-family:Arial;
+					mso-generic-font-family:auto;
+					mso-font-charset:0;
+					border:none;
+					mso-protection:locked visible;
+					mso-style-name:Normal;
+					mso-style-id:0;}
+				td
+					{mso-style-parent:style0;
+					padding-top:1px;
+					padding-right:1px;
+					padding-left:1px;
+					mso-ignore:padding;
+					color:windowtext;
+					font-size:10.0pt;
+					font-weight:400;
+					font-style:normal;
+					text-decoration:none;
+					font-family:Arial;
+					mso-generic-font-family:auto;
+					mso-font-charset:0;
+					mso-number-format:General;
+					text-align:right;
+					vertical-align:bottom;
+					border:none;
+					mso-background-source:auto;
+					mso-pattern:auto;
+					mso-protection:locked visible;
+					white-space:nowrap;
+					mso-rotate:0;}
+				.titling
+					{mso-style-parent:style0;
+					font-size:14.0pt;
+					font-weight:400;
+					}
+				.lefttitling 
+					{
+					text-align:left;
+					font-size:14.0pt;
+					font-weight:400;
+					}
+				.columnnames 
+					{mso-style-parent:style0;
+					font-size:10.0pt;
+					font-weight:bold;
+					font-weight:800;
+					}
+				.xl24
+					{mso-style-parent:style0;
+					white-space:normal;}
+				-->
+				</style>
+				<!--[if gte mso 9]><xml>
+				 <x:ExcelWorkbook>
+				  <x:ExcelWorksheets>
+				   <x:ExcelWorksheet>
+					<x:Name>srirmam</x:Name>
+					<x:WorksheetOptions>
+					 <x:Selected/>
+					 <x:ProtectContents>False</x:ProtectContents>
+					 <x:ProtectObjects>False</x:ProtectObjects>
+					 <x:ProtectScenarios>False</x:ProtectScenarios>
+					</x:WorksheetOptions>
+				   </x:ExcelWorksheet>
+				  </x:ExcelWorksheets>
+				  <x:WindowHeight>10005</x:WindowHeight>
+				  <x:WindowWidth>10005</x:WindowWidth>
+				  <x:WindowTopX>120</x:WindowTopX>
+				  <x:WindowTopY>135</x:WindowTopY>
+				  <x:ProtectStructure>False</x:ProtectStructure>
+				  <x:ProtectWindows>False</x:ProtectWindows>
+				 </x:ExcelWorkbook>
+				</xml><![endif]-->
+				</head>
+
+				<body link=blue vlink=purple>
+				<table x:str border=0 cellpadding=0 cellspacing=0 style='border-collapse: collapse;table-layout:fixed;'><tr><td class=lefttitling width=24>Series Data: US Voter Turnout, Presidential Elections 1964-2004</td></tr><tr><td class=xl24 width=64 ><b>Table:</b> output_bundles</td></tr><tr><td class=xl24 width=64 ><b>Account:</b> pindiespace</td></tr><tr><td class=xl24 width=64 ><b>Organization:</b> Indiespace</td></tr><tr><td class=xl24 width=64 ><b>Rows:</b> Year</td></tr><tr><td class=xl24 width=64 ><b>Columns:</b> US Voter Turnout 1965-2004</td></tr><tr><tr></tr><tr><td class=columnnames width=64 >Series</td><td class=columnnames width=64 >1964.0000</td><td class=columnnames width=64 >1965.0000</td><td class=columnnames width=64 >1966.0000</td><td class=columnnames width=64 >1967.0000</td><td class=columnnames width=64 >1968.0000</td><td class=columnnames width=64 >1969.0000</td><td class=columnnames width=64 >1970.0000</td><td class=columnnames width=64 >1971.0000</td><td class=columnnames width=64 >1972.0000</td><td class=columnnames width=64 >1973.0000</td><td class=columnnames width=64 >1974.0000</td><td class=columnnames width=64 >1975.0000</td><td class=columnnames width=64 >1976.0000</td><td class=columnnames width=64 >1977.0000</td><td class=columnnames width=64 >1978.0000</td><td class=columnnames width=64 >1979.0000</td><td class=columnnames width=64 >1980.0000</td><td class=columnnames width=64 >1981.0000</td><td class=columnnames width=64 >1982.0000</td><td class=columnnames width=64 >1983.0000</td><td class=columnnames width=64 >1984.0000</td><td class=columnnames width=64 >1985.0000</td><td class=columnnames width=64 >1986.0000</td><td class=columnnames width=64 >1987.0000</td><td class=columnnames width=64 >1988.0000</td><td class=columnnames width=64 >1989.0000</td><td class=columnnames width=64 >1990.0000</td><td class=columnnames width=64 >1991.0000</td><td class=columnnames width=64 >1992.0000</td><td class=columnnames width=64 >1993.0000</td><td class=columnnames width=64 >1994.0000</td><td class=columnnames width=64 >1995.0000</td><td class=columnnames width=64 >1996.0000</td><td class=columnnames width=64 >1997.0000</td><td class=columnnames width=64 >1998.0000</td><td class=columnnames width=64 >1999.0000</td><td class=columnnames width=64 >2000.0000</td><td class=columnnames width=64 >2001.0000</td><td class=columnnames width=64 >2002.0000</td><td class=columnnames width=64 >2003.0000</td><td class=columnnames width=64 >2004.0000</td><td class=columnnames width=64 >2005.0000</td><td class=columnnames width=64 >2006.0000</td><td class=columnnames width=64 >2007.0000</td><td class=columnnames width=64 >2008.0000</td></tr><tr><td class=xl24 width=64 >Lost</td><td class=xl24 width=64 >68.9400</td><td class=xl24 width=64 >68.5500</td><td class=xl24 width=64 >68.1600</td><td class=xl24 width=64 >67.7700</td><td class=xl24 width=64 >67.4000</td><td class=xl24 width=64 >66.5300</td><td class=xl24 width=64 >65.6800</td><td class=xl24 width=64 >64.8600</td><td class=xl24 width=64 >64.0500</td><td class=xl24 width=64 >63.5400</td><td class=xl24 width=64 >63.0300</td><td class=xl24 width=64 >62.5300</td><td class=xl24 width=64 >0.0000</td><td class=xl24 width=64 >0.0000</td><td class=xl24 width=64 >0.0000</td><td class=xl24 width=64 >0.0000</td><td class=xl24 width=64 >0.0000</td><td class=xl24 width=64 >0.0000</td><td class=xl24 width=64 >0.0000</td><td class=xl24 width=64 >0.0000</td><td class=xl24 width=64 >0.0000</td><td class=xl24 width=64 >0.0000</td><td class=xl24 width=64 >0.0000</td><td class=xl24 width=64 >0.0000</td><td class=xl24 width=64 >0.0000</td><td class=xl24 width=64 >0.0000</td><td class=xl24 width=64 >0.0000</td><td class=xl24 width=64 >0.0000</td><td class=xl24 width=64 >0.0000</td><td class=xl24 width=64 >0.0000</td><td class=xl24 width=64 >0.0000</td><td class=xl24 width=64 >0.0000</td><td class=xl24 width=64 >0.0000</td><td class=xl24 width=64 >0.0000</td><td class=xl24 width=64 >0.0000</td><td class=xl24 width=64 >0.0000</td><td class=xl24 width=64 >0.0000</td><td class=xl24 width=64 >0.0000</td><td class=xl24 width=64 >0.0000</td><td class=xl24 width=64 >0.0000</td><td class=xl24 width=64 >0.0000</td><td class=xl24 width=64 >0.0000</td><td class=xl24 width=64 >0.0000</td><td class=xl24 width=64 >0.0000</td><td class=xl24 width=64 >0.0000</td></tr><tr><td class=xl24 width=64 >GI</td><td class=xl24 width=64 >73.4600</td><td class=xl24 width=64 >73.1800</td><td class=xl24 width=64 >72.8900</td><td class=xl24 width=64 >72.5900</td><td class=xl24 width=64 >72.2800</td><td class=xl24 width=64 >71.3000</td><td class=xl24 width=64 >70.2900</td><td class=xl24 width=64 >69.2800</td><td class=xl24 width=64 >68.2600</td><td class=xl24 width=64 >67.6400</td><td class=xl24 width=64 >67.0100</td><td class=xl24 width=64 >66.3800</td><td class=xl24 width=64 >65.7300</td><td class=xl24 width=64 >66.0800</td><td class=xl24 width=64 >66.4200</td><td class=xl24 width=64 >66.7700</td><td class=xl24 width=64 >67.1000</td><td class=xl24 width=64 >67.4100</td><td class=xl24 width=64 >67.7400</td><td class=xl24 width=64 >68.1000</td><td class=xl24 width=64 >68.4900</td><td class=xl24 width=64 >68.4500</td><td class=xl24 width=64 >68.4500</td><td class=xl24 width=64 >68.4900</td><td class=xl24 width=64 >68.5600</td><td class=xl24 width=64 >68.9600</td><td class=xl24 width=64 >69.3400</td><td class=xl24 width=64 >69.7200</td><td class=xl24 width=64 >70.0900</td><td class=xl24 width=64 >69.2200</td><td class=xl24 width=64 >68.3800</td><td class=xl24 width=64 >67.5800</td><td class=xl24 width=64 >66.8100</td><td class=xl24 width=64 >67.0100</td><td class=xl24 width=64 >67.2300</td><td class=xl24 width=64 >67.4500</td><td class=xl24 width=64 >0.0000</td><td class=xl24 width=64 >0.0000</td><td class=xl24 width=64 >0.0000</td><td class=xl24 width=64 >0.0000</td><td class=xl24 width=64 >0.0000</td><td class=xl24 width=64 >0.0000</td><td class=xl24 width=64 >0.0000</td><td class=xl24 width=64 >0.0000</td><td class=xl24 width=64 >0.0000</td></tr><tr><td class=xl24 width=64 >Silent</td><td class=xl24 width=64 >62.6600</td><td class=xl24 width=64 >63.2500</td><td class=xl24 width=64 >63.7500</td><td class=xl24 width=64 >64.1800</td><td class=xl24 width=64 >64.5400</td><td class=xl24 width=64 >64.4600</td><td class=xl24 width=64 >64.2800</td><td class=xl24 width=64 >64.0200</td><td class=xl24 width=64 >63.6800</td><td class=xl24 width=64 >63.3200</td><td class=xl24 width=64 >62.9900</td><td class=xl24 width=64 >62.6900</td><td class=xl24 width=64 >62.4100</td><td class=xl24 width=64 >63.0200</td><td class=xl24 width=64 >63.6000</td><td class=xl24 width=64 >64.1900</td><td class=xl24 width=64 >64.8000</td><td class=xl24 width=64 >65.3400</td><td class=xl24 width=64 >65.8600</td><td class=xl24 width=64 >66.3700</td><td class=xl24 width=64 >66.8600</td><td class=xl24 width=64 >66.6700</td><td class=xl24 width=64 >66.5000</td><td class=xl24 width=64 >66.3600</td><td class=xl24 width=64 >66.2600</td><td class=xl24 width=64 >67.1800</td><td class=xl24 width=64 >68.0300</td><td class=xl24 width=64 >68.8200</td><td class=xl24 width=64 >69.5400</td><td class=xl24 width=64 >68.4400</td><td class=xl24 width=64 >67.3700</td><td class=xl24 width=64 >66.3400</td><td class=xl24 width=64 >65.3400</td><td class=xl24 width=64 >65.5300</td><td class=xl24 width=64 >65.7000</td><td class=xl24 width=64 >65.9000</td><td class=xl24 width=64 >66.1200</td><td class=xl24 width=64 >66.6500</td><td class=xl24 width=64 >67.1700</td><td class=xl24 width=64 >67.6700</td><td class=xl24 width=64 >68.1600</td><td class=xl24 width=64 >67.9500</td><td class=xl24 width=64 >67.7600</td><td class=xl24 width=64 >67.5800</td><td class=xl24 width=64 >67.3300</td></tr><tr><td class=xl24 width=64 >Boom</td><td class=xl24 width=64 >50.9000</td><td class=xl24 width=64 >51.4100</td><td class=xl24 width=64 >51.8800</td><td class=xl24 width=64 >52.3200</td><td class=xl24 width=64 >52.7100</td><td class=xl24 width=64 >52.9600</td><td class=xl24 width=64 >53.1400</td><td class=xl24 width=64 >53.2700</td><td class=xl24 width=64 >53.3400</td><td class=xl24 width=64 >52.2400</td><td class=xl24 width=64 >51.1900</td><td class=xl24 width=64 >50.2000</td><td class=xl24 width=64 >49.2700</td><td class=xl24 width=64 >49.5600</td><td class=xl24 width=64 >49.8800</td><td class=xl24 width=64 >50.1900</td><td class=xl24 width=64 >50.5000</td><td class=xl24 width=64 >51.1000</td><td class=xl24 width=64 >52.2800</td><td class=xl24 width=64 >53.4100</td><td class=xl24 width=64 >54.4600</td><td class=xl24 width=64 >54.3800</td><td class=xl24 width=64 >54.3100</td><td class=xl24 width=64 >54.2200</td><td class=xl24 width=64 >54.1500</td><td class=xl24 width=64 >56.0900</td><td class=xl24 width=64 >57.9300</td><td class=xl24 width=64 >59.6900</td><td class=xl24 width=64 >61.3500</td><td class=xl24 width=64 >60.0300</td><td class=xl24 width=64 >58.7700</td><td class=xl24 width=64 >57.5700</td><td class=xl24 width=64 >56.4200</td><td class=xl24 width=64 >57.2200</td><td class=xl24 width=64 >57.9800</td><td class=xl24 width=64 >58.7000</td><td class=xl24 width=64 >59.3700</td><td class=xl24 width=64 >60.6000</td><td class=xl24 width=64 >61.8000</td><td class=xl24 width=64 >62.9700</td><td class=xl24 width=64 >64.1000</td><td class=xl24 width=64 >64.2500</td><td class=xl24 width=64 >64.3500</td><td class=xl24 width=64 >64.4200</td><td class=xl24 width=64 >64.4600</td></tr><tr><td class=xl24 width=64 >Generation X</td><td class=xl24 width=64 >0.0000</td><td class=xl24 width=64 >0.0000</td><td class=xl24 width=64 >0.0000</td><td class=xl24 width=64 >0.0000</td><td class=xl24 width=64 >0.0000</td><td class=xl24 width=64 >0.0000</td><td class=xl24 width=64 >0.0000</td><td class=xl24 width=64 >0.0000</td><td class=xl24 width=64 >0.0000</td><td class=xl24 width=64 >0.0000</td><td class=xl24 width=64 >0.0000</td><td class=xl24 width=64 >0.0000</td><td class=xl24 width=64 >0.0000</td><td class=xl24 width=64 >0.0000</td><td class=xl24 width=64 >0.0000</td><td class=xl24 width=64 >0.0000</td><td class=xl24 width=64 >0.0000</td><td class=xl24 width=64 >0.0000</td><td class=xl24 width=64 >40.3500</td><td class=xl24 width=64 >41.2200</td><td class=xl24 width=64 >42.0600</td><td class=xl24 width=64 >41.5400</td><td class=xl24 width=64 >41.0300</td><td class=xl24 width=64 >40.5200</td><td class=xl24 width=64 >40.0100</td><td class=xl24 width=64 >42.1600</td><td class=xl24 width=64 >44.2600</td><td class=xl24 width=64 >46.3200</td><td class=xl24 width=64 >48.3400</td><td class=xl24 width=64 >46.4200</td><td class=xl24 width=64 >44.5200</td><td class=xl24 width=64 >42.6500</td><td class=xl24 width=64 >40.8000</td><td class=xl24 width=64 >41.4400</td><td class=xl24 width=64 >42.0700</td><td class=xl24 width=64 >42.6800</td><td class=xl24 width=64 >43.2700</td><td class=xl24 width=64 >45.0500</td><td class=xl24 width=64 >46.7500</td><td class=xl24 width=64 >48.8100</td><td class=xl24 width=64 >50.7000</td><td class=xl24 width=64 >51.4800</td><td class=xl24 width=64 >52.1800</td><td class=xl24 width=64 >52.8200</td><td class=xl24 width=64 >53.4000</td></tr><tr><td class=xl24 width=64 >Millennial</td><td class=xl24 width=64 >0.0000</td><td class=xl24 width=64 >0.0000</td><td class=xl24 width=64 >0.0000</td><td class=xl24 width=64 >0.0000</td><td class=xl24 width=64 >0.0000</td><td class=xl24 width=64 >0.0000</td><td class=xl24 width=64 >0.0000</td><td class=xl24 width=64 >0.0000</td><td class=xl24 width=64 >0.0000</td><td class=xl24 width=64 >0.0000</td><td class=xl24 width=64 >0.0000</td><td class=xl24 width=64 >0.0000</td><td class=xl24 width=64 >0.0000</td><td class=xl24 width=64 >0.0000</td><td class=xl24 width=64 >0.0000</td><td class=xl24 width=64 >0.0000</td><td class=xl24 width=64 >0.0000</td><td class=xl24 width=64 >0.0000</td><td class=xl24 width=64 >0.0000</td><td class=xl24 width=64 >0.0000</td><td class=xl24 width=64 >0.0000</td><td class=xl24 width=64 >0.0000</td><td class=xl24 width=64 >0.0000</td><td class=xl24 width=64 >0.0000</td><td class=xl24 width=64 >0.0000</td><td class=xl24 width=64 >0.0000</td><td class=xl24 width=64 >0.0000</td><td class=xl24 width=64 >0.0000</td><td class=xl24 width=64 >0.0000</td><td class=xl24 width=64 >0.0000</td><td class=xl24 width=64 >0.0000</td><td class=xl24 width=64 >0.0000</td><td class=xl24 width=64 >0.0000</td><td class=xl24 width=64 >0.0000</td><td class=xl24 width=64 >0.0000</td><td class=xl24 width=64 >0.0000</td><td class=xl24 width=64 >0.0000</td><td class=xl24 width=64 >0.0000</td><td class=xl24 width=64 >0.0000</td><td class=xl24 width=64 >39.5000</td><td class=xl24 width=64 >42.2700</td><td class=xl24 width=64 >43.1900</td><td class=xl24 width=64 >44.0600</td><td class=xl24 width=64 >44.8800</td><td class=xl24 width=64 >45.6600</td></tr></tr></table></body></html>
