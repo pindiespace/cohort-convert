@@ -46,7 +46,7 @@ The program operates with a front-end Web API.
 
 2. Need to register an account, then log in with your account.
 
-[Cohort Convert Registration Screen](assets/cohort_convert_03.png)
+![Cohort Convert Registration Screen](assets/cohort_convert_03.png)
 
 2. Template with data is uploaded via the web interface
 3. The program outputs a new Excel file, with the survey data "rotated" 45 degrees to show how constant/variable cohort's responses to surveys is.
