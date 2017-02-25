@@ -1,4 +1,6 @@
-## cohort-convert - a generation analysis tool.
+## ![Cohort Convert](assets/logo.png)
+
+...a generation analysis tool.
 
 The goals:
 
@@ -10,7 +12,7 @@ The goals:
 
 4. [CTM Conference to Examine Millennial Impacts on Business (2008)](https://www.marshall.usc.edu/news/releases/2008/ctm-conference-examine-millennial-impacts-business)
 
-5. [Link to app](http://plyojump.com/cohort_convert/)
+5. Link to working version on request.
 
 ## Description
 
