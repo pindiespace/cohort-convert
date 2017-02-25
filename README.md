@@ -44,16 +44,30 @@ The program operates with a front-end Web API.
 
 1. An MS Excel file needs to be prepared (templates are present)
 
-2. Need to register an account, then log in with your account.
-
-![Cohort Convert Registration Screen](assets/cohort_convert_03.png)
-
-2. Template with data is uploaded via the web interface
-3. The program outputs a new Excel file, with the survey data "rotated" 45 degrees to show how constant/variable cohort's responses to surveys is.
-4. Resulting Excel file can be used to generate charts, graphics and other visualization output.
+![Cohort Convert Excel File](assets/cohort_convert_excel.png)
 
 - [Link to Excel file](http://plyojump.com/cohort_convert/templates/example.xls)
 - [Template Instructions](http://plyojump.com/cohort_convert/instructions.php)
+
+2. After the Excel File is created, you need to register an account, then log in with your account.
+
+![Cohort Convert Registration Screen](assets/cohort_convert_03.png)
+
+2. Template with data is uploaded via the web interface. 
+
+![Cohort Convert Upload Screen](assets/cohort_convert_02.png)
+
+Once uploaded, the data is stored in a MySQL database which may be accessed for further manipulation.
+
+3. By selecting various menu options, the program can output converted data. The image below shows the screen for outputting the data, with cohorts explicitly tested against generations.
+
+![Cohort Convert Generation Output Screen](assets/cohort_convert_01.png)
+
+4. The program output to the screen is primarily for debugging. However, the data is cached so it can be exported later.
+
+![Cohort Converte Export Screen](assets/cohort_convert_05.png)
+
+4. Resulting Excel file can be used to generate charts, graphics and other visualization output.
 
 ## Tech
 
