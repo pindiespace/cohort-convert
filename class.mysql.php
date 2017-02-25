@@ -20,10 +20,10 @@
 	  
 	  
 //set defaults for access
-		private static $db_current_host     = 'localhost:3306';
-		private static $db_current_username = 'indinyes_convert';
-		private static $db_current_password = 'BXE1492MMXzN';
-		private static $db_current_db       = 'indinyes_cohort_convert';
+		private static $db_current_host     = 'YOUR_HOST';
+		private static $db_current_username = 'YOUR_DB_USERNAME';
+		private static $db_current_password = 'YOUR_PWD';
+		private static $db_current_db       = 'XXXXX_cohort_convert';
 
 //////////////////////////////////////////////////////////////////////////////////
 //constructor
