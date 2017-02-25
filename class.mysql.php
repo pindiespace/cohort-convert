@@ -20,10 +20,10 @@
 	  
 	  
 //set defaults for access
-		private static $db_current_host     = 'internal-db.s44536.gridserver.com';
-		private static $db_current_username = 'db44536';
-		private static $db_current_password = 'BXEMMXzN';
-		private static $db_current_db       = 'db44536_cohort_convert';
+		private static $db_current_host     = 'localhost:3306';
+		private static $db_current_username = 'indinyes_convert';
+		private static $db_current_password = 'BXE1492MMXzN';
+		private static $db_current_db       = 'indinyes_cohort_convert';
 
 //////////////////////////////////////////////////////////////////////////////////
 //constructor

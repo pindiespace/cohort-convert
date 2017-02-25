@@ -14,9 +14,9 @@ include("header.php");
 
 
 <div id="description">
-
-	<p>This application allows y=f(x) data to be re-plotted, where x = years and y=a particular property, like personal income. Different series in the plot are assumed to be 'age bands' - data grouped by the age of the responder.The application performs a 'rotation' of the data, and re-plots it so the series are now birthyears or cohort bundles(generations). Ini this way, effects based on cohort/generational changes may be estimated. Options include:
-	  <ul>
+	<h2>About Cohort Convert</h2>
+	<p>This application allows y=f(x) data to be re-plotted, where x = years and y = a particular property (like personal income). Different y series in the plot are assumed to be 'age bands' - data grouped by the age of the responder. The application performs a 'rotation' of the data, and re-plots it so the series are now birthyears or cohort bundles(generations). Ini this way, effects based on cohort/generational changes may be estimated. Options include:
+	<ul>
 	  <li>Smoothing data into a larger number of points along x (year) and y (value) axes</li>
 		<li>Rotated so that age range series are converted to birthyear series</li>
 	    <li>Plotting data with several chart formats</li>

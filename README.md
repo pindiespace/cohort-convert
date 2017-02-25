@@ -18,9 +18,9 @@ This application allows y=f(x) data to be re-plotted, where x = years and y= a p
 
 Options include:
 
-    - Smoothing data into a larger number of points along x (year) and y (value) axes rotated so that age range series are converted to birthyear series
-    - Plotting data with several chart formats
-    - Import/Export of data to Excel
+ * Smoothing data into a larger number of points along x (year) and y (value) axes rotated so that age range series are converted to birthyear series
+ * Plotting data with several chart formats
+ * Import/Export of data to Excel
 
 ## Theory
 
@@ -46,6 +46,9 @@ The program operates with a front-end Web API.
 2. Template with data is uploaded via the web interface
 3. The program outputs a new Excel file, with the survey data "rotated" 45 degrees to show how constant/variable cohort's responses to surveys is.
 4. Resulting Excel file can be used to generate charts, graphics and other visualization output.
+
+- [Link to Excel file](http://plyojump.com/cohort_convert/templates/example.xls)
+- [Template Instructions](http://plyojump.com/cohort_convert/instructions.php)
 
 ## Tech
 
