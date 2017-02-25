@@ -43,6 +43,11 @@ To handle this, the application loads data plotted value (e.g. a response to a s
 The program operates with a front-end Web API.
 
 1. An MS Excel file needs to be prepared (templates are present)
+
+2. Need to register an account, then log in with your account.
+
+[Cohort Convert Registration Screen](assets/cohort_convert_03.png)
+
 2. Template with data is uploaded via the web interface
 3. The program outputs a new Excel file, with the survey data "rotated" 45 degrees to show how constant/variable cohort's responses to surveys is.
 4. Resulting Excel file can be used to generate charts, graphics and other visualization output.
