@@ -67,11 +67,15 @@ Once uploaded, the data is stored in a MySQL database which may be accessed for 
 
 ![Cohort Converte Export Screen](assets/cohort_convert_05.png)
 
-4. Resulting Excel file can be used to generate charts, graphics and other visualization output.
+4. Resulting Excel file can be used to generate charts, graphics and other visualization output. An example of output is shown below, where voting data by age was rebundled to show how different generations voted in the 2000s.
+
+![Cohort Convert Chart of Voting vs Generation](assets/cohort_convert_generation_output.png)
+
+If you're interested in the data above, you can [download the Millennials in 2014 file here](http://plyojump.com/archives/seminars/millennials_12-2014_overview.ppt). The full stack of Millennial presentations is available on [Plyojump.com](http://plyojump.com). See even more about generations by visiting the [Lifecourse Website](http://lifecourse.com), maintained by Neil Howe, co-creator of the Millennial generation concept.
 
 ## Tech
 
-The program was written in PHP, and avoids the use of a back-end database by reading and writing flatfile (Excel) files. It also leverages the huge set of array operations built into PHP.
+The program was written in PHP, and uses a MySQL database to archive uploaded data and handle user accounts.
 
-The program was written in early PHP 5, meaning that it uses objects, but has a fairly procedural structure compared to more modern programs. The program is designed to demonstrate concepts, and was not built out into a complete web app. In addition and code was not hardened for security. 
+The program code was written in early PHP 5, meaning that it uses objects, but retains a fairly procedural structure compared to more modern programs. The program is designed to explore the idea of analyzing cohorts, and was not built out into a complete web app. In particular, the online editing and record creation option is incomplete. Finally, the code has basic security tests, but was not hardened for security. 
 
