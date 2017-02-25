@@ -65,9 +65,13 @@ Once uploaded, the data is stored in a MySQL database which may be accessed for 
 
 ![Cohort Convert Generation Output Screen](assets/cohort_convert_01.png)
 
-4. The program output to the screen is primarily for debugging. However, the data is cached so it can be exported later.
+4. The program output to the screen is primarily for debugging. 
 
-![Cohort Converte Export Screen](assets/cohort_convert_05.png)
+![Cohort Convert Output](assets/cohort_convert_04.png)
+
+However, the data is cached so it can be exported later.
+
+![Cohort Convert Export Screen](assets/cohort_convert_05.png)
 
 4. Resulting Excel file can be used to generate charts, graphics and other visualization output. An example of output is shown below, where voting data by age was rebundled to show how different generations voted in the 2000s.
 
