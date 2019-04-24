@@ -1,0 +1,11 @@
+
+This program requires MySQL to work.
+
+1. Install in MySQL with the name 'cohort_convert'
+2. Create the default user. Currently, the file admin/class.mysql.php assumes:
+    
+   host: localhost
+   user: default_user
+   pass: changeme
+
+You may want to adjust your username and password. You can adjust this before loading by going to line 47 of this file, and editing the default user that is added.
