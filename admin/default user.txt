@@ -1,0 +1,7 @@
+This file links to MySQL. It logs in with the following defaults:
+
+h: localhost
+u: default_user
+p: changeme
+
+You will probably want to change this!
