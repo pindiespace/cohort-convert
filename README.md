@@ -44,28 +44,35 @@ To handle this, the application loads data plotted value (e.g. a response to a s
 
 The program operates with a front-end Web API.
 
-1. An MS Excel file needs to be prepared (templates are present)
+1. You have to create a MySQL database. A sample database is in the /databases sub-directory which you can load into your MySQL server. it has a default_user 
+
+2.You also have to set a default user to log into that database. The default user is set in the /admin/class.mysql.php. It assumes a default_user exists in the MySQL database.
+
+IMPORTANT: you probably want to change this!
+
+
+3. An MS Excel file needs to be prepared (templates are present)
 
 ![Cohort Convert Excel File](assets/cohort_convert_excel.png)
 
 - [Link to Excel file](http://plyojump.com/cohort_convert/templates/example.xls)
 - [Template Instructions](http://plyojump.com/cohort_convert/instructions.php)
 
-2. After the Excel File is created, you need to register an account, then log in with your account.
+4. After the Excel File is created, you need to register an account, then log in with your account.
 
 ![Cohort Convert Registration Screen](assets/cohort_convert_03.png)
 
-2. Template with data is uploaded via the web interface. 
+5. Template with data is uploaded via the web interface. 
 
 ![Cohort Convert Upload Screen](assets/cohort_convert_02.png)
 
 Once uploaded, the data is stored in a MySQL database which may be accessed for further manipulation.
 
-3. By selecting various menu options, the program can output converted data. The image below shows the screen for outputting the data, with cohorts explicitly tested against generations.
+6. By selecting various menu options, the program can output converted data. The image below shows the screen for outputting the data, with cohorts explicitly tested against generations.
 
 ![Cohort Convert Generation Output Screen](assets/cohort_convert_01.png)
 
-4. The program output to the screen is primarily for debugging. 
+7. The program output to the screen is primarily for debugging. 
 
 ![Cohort Convert Output](assets/cohort_convert_04.png)
 
@@ -73,7 +80,7 @@ However, the data is cached so it can be exported later.
 
 ![Cohort Convert Export Screen](assets/cohort_convert_05.png)
 
-4. Resulting Excel file can be used to generate charts, graphics and other visualization output. An example of output is shown below, where voting data by age was rebundled to show how different generations voted in the 2000s.
+8. Resulting Excel file can be used to generate charts, graphics and other visualization output. An example of output is shown below, where voting data by age was rebundled to show how different generations voted in the 2000s.
 
 ![Cohort Convert Chart of Voting vs Generation](assets/cohort_convert_generation_output.png)
 
